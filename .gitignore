@@ -1,0 +1,14 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Bicep
+*.bicepParams.json
+
+# General
+*.log
+*.tmp
+*.bak
+.DS_Store
